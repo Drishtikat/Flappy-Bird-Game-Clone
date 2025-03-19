@@ -4,16 +4,19 @@ This is a simple Flappy Bird clone game built with Pygame. The game replicates t
 # 🎮 Features
 
 ✅ Simple controls: Press the spacebar or click the mouse to make the bird flap.
+
 ✅ Procedural obstacles: Randomly generated pipes that move towards the bird.
+
 ✅ Scoring system: Each time the bird successfully passes through a pair of pipes, the score increases.
+
 ✅ Game Over screen: Displays your score after crashing into a pipe or the ground.
 
 # Installations
-1. Install dependancies:
+## Install dependancies:
    ```pip install pygame ```
 
 To run this project locally:
 1. Clone the Repository:
-   ```a ```
+   ```https://github.com/Drishtikat/Flappy-Bird-Game-Clone.git```
 3. Navigate to project directory:
-   ``` b ```
+   ``` cd Flappy-Bird-Game-Clone ```
