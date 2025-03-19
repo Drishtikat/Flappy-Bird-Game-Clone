@@ -12,7 +12,7 @@ This is a simple Flappy Bird clone game built with Pygame. The game replicates t
 ✅ Game Over screen: Displays your score after crashing into a pipe or the ground.
 
 # Installations
-## Install dependancies:
+Install dependancies:
    ```pip install pygame ```
 
 To run this project locally:
